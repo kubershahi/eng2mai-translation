@@ -1,0 +1,1504 @@
+doc_id	sent_id	topic	domain	prompt	scenario	speaker	turn
+0	1	Festivities	culture	14th April a holiday	Historical importance	1	1
+0	2	Festivities	culture	14th April a holiday	Historical importance	1	1
+0	3	Festivities	culture	14th April a holiday	Historical importance	1	1
+0	4	Festivities	culture	14th April a holiday	Historical importance	2	1
+0	5	Festivities	culture	14th April a holiday	Historical importance	2	1
+0	6	Festivities	culture	14th April a holiday	Historical importance	2	1
+0	7	Festivities	culture	14th April a holiday	Historical importance	1	2
+0	8	Festivities	culture	14th April a holiday	Historical importance	1	2
+0	9	Festivities	culture	14th April a holiday	Historical importance	1	2
+0	10	Festivities	culture	14th April a holiday	Historical importance	2	2
+0	11	Festivities	culture	14th April a holiday	Historical importance	2	2
+0	12	Festivities	culture	14th April a holiday	Historical importance	2	2
+0	13	Festivities	culture	14th April a holiday	Historical importance	1	3
+0	14	Festivities	culture	14th April a holiday	Historical importance	1	3
+0	15	Festivities	culture	14th April a holiday	Historical importance	2	3
+0	16	Festivities	culture	14th April a holiday	Historical importance	2	3
+0	17	Festivities	culture	14th April a holiday	Historical importance	2	3
+0	18	Festivities	culture	14th April a holiday	Historical importance	1	4
+0	19	Festivities	culture	14th April a holiday	Historical importance	1	4
+0	20	Festivities	culture	14th April a holiday	Historical importance	1	4
+0	21	Festivities	culture	14th April a holiday	Historical importance	1	4
+0	22	Festivities	culture	14th April a holiday	Historical importance	2	4
+0	23	Festivities	culture	14th April a holiday	Historical importance	2	4
+0	24	Festivities	culture	14th April a holiday	Historical importance	2	4
+0	25	Festivities	culture	14th April a holiday	Historical importance	1	5
+0	26	Festivities	culture	14th April a holiday	Historical importance	2	5
+0	27	Festivities	culture	14th April a holiday	Historical importance	2	5
+0	28	Festivities	culture	14th April a holiday	Historical importance	1	6
+0	29	Festivities	culture	14th April a holiday	Historical importance	1	6
+0	30	Festivities	culture	14th April a holiday	Historical importance	2	6
+0	31	Festivities	culture	14th April a holiday	Historical importance	2	6
+0	32	Festivities	culture	14th April a holiday	Historical importance	1	7
+0	33	Festivities	culture	14th April a holiday	Historical importance	1	7
+0	34	Festivities	culture	14th April a holiday	Historical importance	1	7
+0	35	Festivities	culture	14th April a holiday	Historical importance	2	7
+1	1	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	1
+1	2	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	1
+1	3	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	1
+1	4	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	1
+1	5	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	2
+1	6	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	2
+1	7	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	2
+1	8	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	2
+1	9	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	3
+1	10	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	3
+1	11	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	4
+1	12	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	4
+1	13	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	4
+1	14	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	4
+1	15	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	4
+1	16	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	5
+1	17	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	5
+1	18	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	5
+1	19	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	5
+1	20	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	5
+1	22	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	6
+1	23	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	6
+1	24	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	6
+1	25	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	7
+1	26	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	7
+1	27	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	7
+1	28	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	7
+1	29	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	8
+1	30	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	2	8
+1	31	Best colleges/Universities in India	college_life	Diploma in web designing	Architecture/Designing	1	8
+2	1	Festivities	culture	Republic day	Historical importance	1	1
+2	2	Festivities	culture	Republic day	Historical importance	1	1
+2	3	Festivities	culture	Republic day	Historical importance	1	1
+2	4	Festivities	culture	Republic day	Historical importance	2	1
+2	5	Festivities	culture	Republic day	Historical importance	2	1
+2	6	Festivities	culture	Republic day	Historical importance	2	1
+2	7	Festivities	culture	Republic day	Historical importance	1	2
+2	8	Festivities	culture	Republic day	Historical importance	2	2
+2	9	Festivities	culture	Republic day	Historical importance	2	2
+2	10	Festivities	culture	Republic day	Historical importance	2	2
+2	11	Festivities	culture	Republic day	Historical importance	1	3
+2	12	Festivities	culture	Republic day	Historical importance	2	3
+2	13	Festivities	culture	Republic day	Historical importance	2	3
+2	14	Festivities	culture	Republic day	Historical importance	2	3
+2	15	Festivities	culture	Republic day	Historical importance	1	4
+2	16	Festivities	culture	Republic day	Historical importance	1	4
+2	17	Festivities	culture	Republic day	Historical importance	1	4
+2	18	Festivities	culture	Republic day	Historical importance	2	4
+2	19	Festivities	culture	Republic day	Historical importance	2	4
+2	20	Festivities	culture	Republic day	Historical importance	2	4
+2	21	Festivities	culture	Republic day	Historical importance	2	4
+2	22	Festivities	culture	Republic day	Historical importance	2	4
+2	23	Festivities	culture	Republic day	Historical importance	1	5
+2	24	Festivities	culture	Republic day	Historical importance	1	5
+2	25	Festivities	culture	Republic day	Historical importance	1	5
+2	26	Festivities	culture	Republic day	Historical importance	1	5
+2	27	Festivities	culture	Republic day	Historical importance	2	5
+2	28	Festivities	culture	Republic day	Historical importance	2	5
+2	29	Festivities	culture	Republic day	Historical importance	2	5
+2	30	Festivities	culture	Republic day	Historical importance	1	6
+2	31	Festivities	culture	Republic day	Historical importance	1	6
+2	32	Festivities	culture	Republic day	Historical importance	1	6
+2	33	Festivities	culture	Republic day	Historical importance	2	6
+2	34	Festivities	culture	Republic day	Historical importance	2	6
+2	35	Festivities	culture	Republic day	Historical importance	2	6
+2	36	Festivities	culture	Republic day	Historical importance	1	7
+2	37	Festivities	culture	Republic day	Historical importance	1	7
+2	38	Festivities	culture	Republic day	Historical importance	1	7
+3	1	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	1
+3	2	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	1
+3	3	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	2
+3	4	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	2
+3	5	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	2
+3	6	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	2
+3	7	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	2
+3	8	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	2
+3	9	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	3
+3	10	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	3
+3	11	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	3
+3	12	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	4
+3	13	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	4
+3	14	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	5
+3	15	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	5
+3	16	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	5
+3	17	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	6
+3	18	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	6
+3	19	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	7
+3	20	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	7
+3	21	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	7
+3	22	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	7
+3	23	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	8
+3	24	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	8
+3	25	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	8
+3	26	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	8
+3	27	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	9
+3	28	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	9
+3	29	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	9
+3	30	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	10
+3	31	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	10
+3	32	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	1	11
+3	33	Scholarships/Fellowships	college_life	Merit-cum-Means Scholarship Scheme	Inquiring about fully funded programs	2	11
+4	1	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	1
+4	2	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	1
+4	3	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	1
+4	4	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	1
+4	5	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	1
+4	6	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	2
+4	7	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	2
+4	8	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	2
+4	9	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	3
+4	10	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	3
+4	11	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	4
+4	12	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	4
+4	13	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	4
+4	14	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	4
+4	15	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	4
+4	16	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	5
+4	17	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	5
+4	18	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	5
+4	19	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	5
+4	20	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	6
+4	21	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	6
+4	22	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	6
+4	23	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	7
+4	24	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	7
+4	25	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	7
+4	26	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	7
+4	27	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	8
+4	28	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	8
+4	29	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	8
+4	30	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	8
+4	31	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	8
+4	32	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	1	9
+4	33	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	9
+4	34	Legal Afffidavit/documents	legal	Joint Affidavit for Registration of Marriage	Issuing affidavits	2	9
+5	1	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	1
+5	2	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	1
+5	3	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	1
+5	4	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	1
+5	5	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	2
+5	6	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	2
+5	7	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	2
+5	8	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	2
+5	9	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	2
+5	10	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	3
+5	11	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	3
+5	12	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	3
+5	13	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	3
+5	14	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	3
+5	15	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	4
+5	16	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	4
+5	17	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	4
+5	18	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	4
+5	19	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	5
+5	20	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	5
+5	21	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	5
+5	22	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	5
+5	23	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	6
+5	24	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	6
+5	25	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	6
+5	26	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	6
+5	27	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	7
+5	28	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	2	7
+5	29	Legal Afffidavit/documents	legal	Documents required for e-tourist visa	Visa processing	1	7
+6	1	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	1
+6	2	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	1
+6	3	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	1
+6	4	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	1
+6	5	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	1
+6	6	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	1
+6	7	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	1
+6	8	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	1
+6	9	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	2
+6	10	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	2
+6	11	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	2
+6	12	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	2
+6	13	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	2
+6	14	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	2
+6	15	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	2
+6	16	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	3
+6	17	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	3
+6	18	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	3
+6	19	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	3
+6	20	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	3
+6	21	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	3
+6	22	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	3
+6	23	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	3
+6	24	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	4
+6	25	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	4
+6	26	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	4
+6	27	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	4
+6	28	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	4
+6	29	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	4
+6	30	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	4
+6	31	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	2	4
+6	32	Academia (Generic)	school_life	Foreign language learning in schools	Language learning	1	5
+7	1	Geography of India	geography	Rivers in India	School	2	1
+7	2	Geography of India	geography	Rivers in India	School	2	1
+7	3	Geography of India	geography	Rivers in India	School	2	1
+7	4	Geography of India	geography	Rivers in India	School	2	1
+7	5	Geography of India	geography	Rivers in India	School	1	1
+7	6	Geography of India	geography	Rivers in India	School	1	1
+7	7	Geography of India	geography	Rivers in India	School	1	1
+7	8	Geography of India	geography	Rivers in India	School	1	1
+7	9	Geography of India	geography	Rivers in India	School	1	1
+7	10	Geography of India	geography	Rivers in India	School	2	2
+7	11	Geography of India	geography	Rivers in India	School	2	2
+7	12	Geography of India	geography	Rivers in India	School	1	2
+7	13	Geography of India	geography	Rivers in India	School	1	2
+7	14	Geography of India	geography	Rivers in India	School	1	2
+7	15	Geography of India	geography	Rivers in India	School	1	2
+7	16	Geography of India	geography	Rivers in India	School	2	3
+7	17	Geography of India	geography	Rivers in India	School	2	3
+7	18	Geography of India	geography	Rivers in India	School	1	3
+7	19	Geography of India	geography	Rivers in India	School	2	4
+7	20	Geography of India	geography	Rivers in India	School	2	4
+7	21	Geography of India	geography	Rivers in India	School	1	4
+7	22	Geography of India	geography	Rivers in India	School	2	5
+7	23	Geography of India	geography	Rivers in India	School	1	5
+7	24	Geography of India	geography	Rivers in India	School	1	5
+7	25	Geography of India	geography	Rivers in India	School	2	6
+7	26	Geography of India	geography	Rivers in India	School	2	6
+7	27	Geography of India	geography	Rivers in India	School	2	6
+7	28	Geography of India	geography	Rivers in India	School	1	6
+7	29	Geography of India	geography	Rivers in India	School	2	7
+7	30	Geography of India	geography	Rivers in India	School	2	7
+7	31	Geography of India	geography	Rivers in India	School	1	7
+7	32	Geography of India	geography	Rivers in India	School	2	8
+7	33	Geography of India	geography	Rivers in India	School	2	8
+8	1	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	1
+8	2	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	1
+8	3	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	1
+8	4	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	1
+8	5	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	1
+8	6	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	2
+8	7	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	2
+8	8	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	2
+8	9	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	2
+8	10	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	2
+8	11	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	2
+8	12	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	2
+8	13	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	3
+8	14	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	3
+8	15	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	3
+8	16	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	3
+8	17	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	3
+8	18	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	3
+8	19	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	3
+8	20	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	3
+8	21	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	3
+8	22	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	4
+8	23	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	4
+8	24	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	4
+8	25	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	4
+8	26	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	4
+8	27	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	4
+8	28	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	4
+8	29	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	5
+8	30	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	5
+8	31	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	5
+8	32	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	5
+8	33	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	5
+8	34	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	5
+8	35	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	6
+8	36	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	6
+8	37	Geography of India	geography	Extreme weather conditions	Housing/Colony	1	6
+8	38	Geography of India	geography	Extreme weather conditions	Housing/Colony	2	6
+9	1	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	1
+9	2	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	1
+9	3	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	1
+9	4	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	1
+9	5	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	1
+9	6	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	1
+9	7	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	1
+9	8	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	1
+9	9	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	2
+9	10	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	2
+9	11	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	2
+9	12	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	2
+9	13	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	2
+9	14	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	2
+9	15	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	2
+9	16	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	3
+9	17	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	3
+9	18	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	3
+9	19	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	4
+9	20	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	4
+9	21	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	4
+9	22	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	4
+9	23	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	4
+9	24	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	5
+9	25	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	5
+9	26	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	5
+9	27	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	5
+9	28	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	6
+9	29	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	6
+9	30	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	2	6
+9	31	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	7
+9	32	Vaccination	healthcare	Discussing about the compulsion of vaccination	Inquiring about the right time to get Covid Vaccine	1	7
+10	1	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	1
+10	2	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	1
+10	3	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	2
+10	4	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	2
+10	5	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	2
+10	6	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	3
+10	7	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	3
+10	8	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	4
+10	9	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	4
+10	10	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	5
+10	11	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	5
+10	12	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	5
+10	13	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	6
+10	14	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	6
+10	15	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	6
+10	16	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	6
+10	17	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	6
+10	18	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	6
+10	19	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	7
+10	20	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	7
+10	21	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	7
+10	22	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	7
+10	23	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	8
+10	24	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	8
+10	25	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	8
+10	26	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	8
+10	27	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	8
+10	28	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	8
+10	29	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	9
+10	30	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	9
+10	31	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	1	9
+10	32	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	9
+10	33	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	9
+10	34	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	9
+10	35	Gov Health Schemes	healthcare	Villagers complaining about the bad quality drinking water	Reaching more people/Spreading awareness	2	9
+11	1	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	1
+11	2	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	1
+11	3	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	1
+11	4	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	1
+11	5	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	1
+11	6	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	1
+11	7	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	2
+11	8	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	2
+11	9	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	2
+11	10	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	2
+11	11	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	2
+11	12	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	3
+11	13	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	3
+11	14	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	3
+11	15	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	3
+11	16	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	4
+11	17	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	4
+11	18	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	4
+11	19	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	4
+11	20	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	4
+11	21	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	4
+11	22	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	5
+11	23	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	5
+11	24	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	5
+11	25	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	5
+11	26	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	5
+11	27	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	6
+11	28	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	6
+11	29	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	6
+11	30	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	6
+11	31	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	6
+11	32	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	6
+11	33	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	7
+11	34	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	1	7
+11	35	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	7
+11	36	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	7
+11	37	Sports in India	sports	Social and Economic inequalities	Challenges/Issues in Sports sector	2	7
+12	1	Sports in India	sports	Wrestling	Sports in India	1	1
+12	2	Sports in India	sports	Wrestling	Sports in India	1	1
+12	3	Sports in India	sports	Wrestling	Sports in India	2	1
+12	4	Sports in India	sports	Wrestling	Sports in India	2	1
+12	5	Sports in India	sports	Wrestling	Sports in India	2	1
+12	6	Sports in India	sports	Wrestling	Sports in India	1	2
+12	7	Sports in India	sports	Wrestling	Sports in India	1	2
+12	8	Sports in India	sports	Wrestling	Sports in India	1	2
+12	9	Sports in India	sports	Wrestling	Sports in India	2	2
+12	10	Sports in India	sports	Wrestling	Sports in India	1	3
+12	11	Sports in India	sports	Wrestling	Sports in India	1	3
+12	12	Sports in India	sports	Wrestling	Sports in India	2	3
+12	13	Sports in India	sports	Wrestling	Sports in India	2	3
+12	14	Sports in India	sports	Wrestling	Sports in India	2	3
+12	15	Sports in India	sports	Wrestling	Sports in India	1	4
+12	16	Sports in India	sports	Wrestling	Sports in India	1	4
+12	17	Sports in India	sports	Wrestling	Sports in India	1	4
+12	18	Sports in India	sports	Wrestling	Sports in India	2	4
+12	19	Sports in India	sports	Wrestling	Sports in India	1	5
+12	20	Sports in India	sports	Wrestling	Sports in India	1	5
+12	21	Sports in India	sports	Wrestling	Sports in India	2	5
+12	22	Sports in India	sports	Wrestling	Sports in India	1	6
+12	23	Sports in India	sports	Wrestling	Sports in India	1	6
+12	24	Sports in India	sports	Wrestling	Sports in India	2	6
+12	25	Sports in India	sports	Wrestling	Sports in India	1	7
+12	26	Sports in India	sports	Wrestling	Sports in India	1	7
+12	27	Sports in India	sports	Wrestling	Sports in India	2	7
+12	28	Sports in India	sports	Wrestling	Sports in India	2	7
+12	29	Sports in India	sports	Wrestling	Sports in India	1	8
+12	30	Sports in India	sports	Wrestling	Sports in India	1	8
+12	31	Sports in India	sports	Wrestling	Sports in India	2	8
+12	32	Sports in India	sports	Wrestling	Sports in India	1	9
+13	1	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	1
+13	2	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	1
+13	3	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	1
+13	4	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	1
+13	5	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	1
+13	6	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	1
+13	7	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	2
+13	8	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	2
+13	9	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	2
+13	10	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	2
+13	11	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	2
+13	12	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	2
+13	13	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	3
+13	14	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	3
+13	15	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	3
+13	16	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	3
+13	17	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	3
+13	18	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	3
+13	19	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	4
+13	20	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	4
+13	21	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	4
+13	22	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	4
+13	23	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+13	24	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+13	25	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+13	26	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+13	27	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+13	28	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+13	29	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	5
+13	30	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	5
+13	31	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	5
+13	32	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	5
+13	33	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	5
+13	34	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	5
+13	35	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	5
+13	36	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	5
+13	37	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	6
+13	38	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	6
+13	39	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	6
+13	40	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	6
+13	41	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	6
+13	42	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	6
+13	43	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	6
+13	44	Inquiring about the Insurance	insurance	Good health insurance available for family	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	6
+14	1	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	1
+14	2	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	1
+14	3	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	1
+14	4	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	1
+14	5	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	1
+14	6	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	1
+14	7	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	2
+14	8	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	2
+14	9	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	2
+14	10	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	2
+14	11	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	2
+14	12	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	2
+14	13	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	2
+14	14	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	2
+14	15	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	3
+14	16	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	3
+14	17	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	3
+14	18	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	3
+14	19	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	3
+14	20	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	4
+14	21	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	4
+14	22	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	4
+14	23	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	4
+14	24	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	4
+14	25	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	5
+14	26	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	5
+14	27	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	5
+14	28	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	5
+14	29	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	5
+14	30	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	5
+14	31	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	5
+14	32	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	5
+14	33	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	6
+14	34	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	6
+14	35	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	6
+14	36	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	6
+14	37	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	6
+14	38	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	6
+14	39	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	6
+14	40	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	6
+14	41	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	7
+14	42	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	7
+14	43	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	2	7
+14	44	Plannings	daily_dialogue	Long drive from Mumbai to Goa	long/short drives	1	7
+15	1	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	1
+15	2	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	1
+15	3	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	1
+15	4	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	1
+15	5	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	1
+15	6	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	1
+15	7	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	2
+15	8	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	2
+15	9	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	2
+15	10	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	2
+15	11	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	2
+15	12	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	2
+15	13	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	2
+15	14	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	2
+15	15	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	2
+15	16	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	3
+15	17	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	3
+15	18	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	3
+15	19	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	3
+15	20	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	3
+15	21	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	3
+15	22	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	3
+15	23	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	3
+15	24	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	4
+15	25	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	4
+15	26	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	4
+15	27	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	4
+15	28	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	4
+15	29	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	4
+15	30	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	4
+15	31	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	4
+15	32	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	1	5
+15	33	Music	entertainment	Arranging passes for AP Dhillon Concert	Music Apps/programs/concerts	2	5
+16	1	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	1
+16	2	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	1
+16	3	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	2
+16	4	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	2
+16	5	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	3
+16	6	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	3
+16	7	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	3
+16	8	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	3
+16	9	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	3
+16	10	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	3
+16	11	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	4
+16	12	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	4
+16	13	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	4
+16	14	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	4
+16	15	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	5
+16	16	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	5
+16	17	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	5
+16	18	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	5
+16	19	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	5
+16	20	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	5
+16	21	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	6
+16	22	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	6
+16	23	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	6
+16	24	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	7
+16	25	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	7
+16	26	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	7
+16	27	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	7
+16	28	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	7
+16	29	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	8
+16	30	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	8
+16	31	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	2	8
+16	32	Music	entertainment	Which is an easy genre of music to start with ?	Learning Music	1	9
+17	1	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	1
+17	2	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	1
+17	3	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	2
+17	4	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	2
+17	5	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	2
+17	6	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	2
+17	7	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	3
+17	8	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	3
+17	9	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	3
+17	10	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	4
+17	11	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	4
+17	12	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	4
+17	13	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	5
+17	14	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	5
+17	15	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	5
+17	16	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	5
+17	17	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	5
+17	18	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	6
+17	19	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	6
+17	20	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	6
+17	21	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	6
+17	22	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	7
+17	23	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	7
+17	24	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	7
+17	25	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	7
+17	26	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	8
+17	27	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	8
+17	28	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	9
+17	29	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	9
+17	30	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	9
+17	31	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	10
+17	32	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	10
+17	33	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	10
+17	34	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	1	10
+17	35	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	10
+17	36	Elections	government	Which political parties are planning to conduct the rally?	Inquiring about political rallies	2	10
+18	1	Geography of India	geography	What is your fav subject?why?	School	1	1
+18	2	Geography of India	geography	What is your fav subject?why?	School	1	1
+18	3	Geography of India	geography	What is your fav subject?why?	School	1	1
+18	4	Geography of India	geography	What is your fav subject?why?	School	2	1
+18	5	Geography of India	geography	What is your fav subject?why?	School	2	1
+18	6	Geography of India	geography	What is your fav subject?why?	School	2	1
+18	7	Geography of India	geography	What is your fav subject?why?	School	2	1
+18	8	Geography of India	geography	What is your fav subject?why?	School	2	1
+18	9	Geography of India	geography	What is your fav subject?why?	School	2	1
+18	10	Geography of India	geography	What is your fav subject?why?	School	1	2
+18	11	Geography of India	geography	What is your fav subject?why?	School	1	2
+18	12	Geography of India	geography	What is your fav subject?why?	School	1	2
+18	13	Geography of India	geography	What is your fav subject?why?	School	1	2
+18	14	Geography of India	geography	What is your fav subject?why?	School	2	2
+18	15	Geography of India	geography	What is your fav subject?why?	School	2	2
+18	16	Geography of India	geography	What is your fav subject?why?	School	2	2
+18	17	Geography of India	geography	What is your fav subject?why?	School	2	2
+18	18	Geography of India	geography	What is your fav subject?why?	School	2	2
+18	19	Geography of India	geography	What is your fav subject?why?	School	2	2
+18	20	Geography of India	geography	What is your fav subject?why?	School	1	3
+18	21	Geography of India	geography	What is your fav subject?why?	School	1	3
+18	22	Geography of India	geography	What is your fav subject?why?	School	1	3
+18	23	Geography of India	geography	What is your fav subject?why?	School	1	3
+18	24	Geography of India	geography	What is your fav subject?why?	School	1	3
+18	25	Geography of India	geography	What is your fav subject?why?	School	2	3
+18	26	Geography of India	geography	What is your fav subject?why?	School	2	3
+18	27	Geography of India	geography	What is your fav subject?why?	School	2	3
+18	28	Geography of India	geography	What is your fav subject?why?	School	2	3
+18	29	Geography of India	geography	What is your fav subject?why?	School	1	4
+18	30	Geography of India	geography	What is your fav subject?why?	School	1	4
+18	31	Geography of India	geography	What is your fav subject?why?	School	1	4
+18	32	Geography of India	geography	What is your fav subject?why?	School	1	4
+18	33	Geography of India	geography	What is your fav subject?why?	School	2	4
+18	34	Geography of India	geography	What is your fav subject?why?	School	2	4
+18	35	Geography of India	geography	What is your fav subject?why?	School	2	4
+18	36	Geography of India	geography	What is your fav subject?why?	School	2	4
+18	37	Geography of India	geography	What is your fav subject?why?	School	2	4
+18	38	Geography of India	geography	What is your fav subject?why?	School	1	5
+18	39	Geography of India	geography	What is your fav subject?why?	School	2	5
+18	40	Geography of India	geography	What is your fav subject?why?	School	1	6
+18	41	Geography of India	geography	What is your fav subject?why?	School	1	6
+18	42	Geography of India	geography	What is your fav subject?why?	School	1	6
+18	43	Geography of India	geography	What is your fav subject?why?	School	2	6
+19	1	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	1
+19	2	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	1
+19	3	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	1
+19	4	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	1
+19	5	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	2
+19	6	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	2
+19	7	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	2
+19	8	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	2
+19	9	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	2
+19	10	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	3
+19	11	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	3
+19	12	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	3
+19	13	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	3
+19	14	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	4
+19	15	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	4
+19	16	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	4
+19	17	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	4
+19	18	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	4
+19	19	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	5
+19	20	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	5
+19	21	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	5
+19	22	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	5
+19	23	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	6
+19	24	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	6
+19	25	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	6
+19	26	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	6
+19	27	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	6
+19	28	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	7
+19	29	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	2	7
+19	30	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	7
+19	31	Campus life	college_life	Ordering cab inside campus	transportation(inside/outside)	1	7
+20	1	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	1
+20	2	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	1
+20	3	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	1
+20	4	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	1
+20	5	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	1
+20	6	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	2
+20	7	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	2
+20	8	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	2
+20	9	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	2
+20	10	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	2
+20	11	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	2
+20	12	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	3
+20	13	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	3
+20	14	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	3
+20	15	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	3
+20	16	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	3
+20	17	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	3
+20	18	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	3
+20	19	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	4
+20	20	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	4
+20	21	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	4
+20	22	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	4
+20	23	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	4
+20	24	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	4
+20	25	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	4
+20	26	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	4
+20	27	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	5
+20	28	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	5
+20	29	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	5
+20	30	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	5
+20	31	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	5
+20	32	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	5
+20	33	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	5
+20	34	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	6
+20	35	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	6
+20	36	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	6
+20	37	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	1	6
+20	38	Asking about hobbies	hobbies	What are the good hobbies to develop for students ?	School	2	7
+21	1	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	1
+21	2	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	1
+21	3	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	1
+21	4	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	2
+21	5	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	2
+21	6	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	2
+21	7	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	2
+21	8	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	2
+21	9	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	2
+21	10	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	3
+21	11	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	3
+21	12	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	3
+21	13	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	3
+21	14	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	3
+21	15	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	3
+21	16	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	4
+21	17	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	4
+21	18	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	4
+21	19	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	5
+21	20	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	5
+21	21	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	5
+21	22	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	5
+21	23	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	5
+21	24	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	5
+21	25	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	6
+21	26	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	6
+21	27	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	6
+21	28	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	6
+21	29	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	7
+21	30	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	7
+21	31	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	7
+21	32	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	7
+21	33	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	7
+21	34	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	7
+21	35	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	7
+21	36	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	7
+21	37	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	7
+21	38	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	8
+21	39	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	8
+21	40	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	8
+21	41	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	9
+21	42	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	9
+21	43	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	10
+21	44	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	2	10
+21	45	Asking about hobbies	hobbies	What are your hobbies/skills ?	University Campus	1	10
+22	1	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	1
+22	2	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	1
+22	3	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	1
+22	4	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	1
+22	5	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	1
+22	6	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	1
+22	7	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	1
+22	8	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	1
+22	9	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	2
+22	10	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	2
+22	11	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	2
+22	12	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	2
+22	13	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	2
+22	14	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	2
+22	15	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	2
+22	16	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	2
+22	17	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	3
+22	18	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	3
+22	19	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	3
+22	20	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	3
+22	21	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	3
+22	22	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	3
+22	23	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	4
+22	24	Extra curricular Activities	school_life	Environmental day	Voluntaring	1	4
+22	25	Extra curricular Activities	school_life	Environmental day	Voluntaring	2	4
+23	1	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	1
+23	2	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	1
+23	3	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	1
+23	4	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	1
+23	5	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	1
+23	6	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	1
+23	7	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	1
+23	8	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	2
+23	9	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	2
+23	10	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	2
+23	11	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	2
+23	12	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	2
+23	13	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	2
+23	14	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	3
+23	15	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	3
+23	16	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	3
+23	17	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	3
+23	18	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	3
+23	19	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	3
+23	20	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	4
+23	21	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	4
+23	22	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	4
+23	23	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+23	24	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+23	25	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+23	26	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	4
+23	27	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	5
+23	28	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	5
+23	29	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	5
+23	30	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	5
+23	31	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	5
+23	32	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	6
+23	33	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	6
+23	34	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	6
+23	35	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	6
+23	36	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	2	6
+23	37	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	7
+23	38	Inquiring about the Insurance	insurance	Life insurance's benifits	Inquiring about different types of Taxes ( Sales tax, GST, SGST)	1	7
+24	1	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	1
+24	2	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	1
+24	3	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	1
+24	4	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	1
+24	5	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	2
+24	6	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	2
+24	7	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	2
+24	8	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	2
+24	9	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	3
+24	10	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	3
+24	11	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	3
+24	12	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	3
+24	13	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	3
+24	14	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	3
+24	15	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	4
+24	16	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	4
+24	17	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	4
+24	18	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	5
+24	19	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	5
+24	20	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	5
+24	21	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	5
+24	22	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	6
+24	23	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	6
+24	24	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	6
+24	25	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	6
+24	26	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	6
+24	27	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	7
+24	28	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	7
+24	29	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	1	7
+24	30	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	7
+24	31	Hill stations	tourism	Talking about special north eastern delicasies	Local food suggestions	2	7
+25	1	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	1
+25	2	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	1
+25	3	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	1
+25	4	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	2
+25	5	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	2
+25	6	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	2
+25	7	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	2
+25	8	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	3
+25	9	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	3
+25	10	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	3
+25	11	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	3
+25	12	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	3
+25	13	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	3
+25	14	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	3
+25	15	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	3
+25	16	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	4
+25	17	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	4
+25	18	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	4
+25	19	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	4
+25	20	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	5
+25	21	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	5
+25	22	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	5
+25	23	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	6
+25	24	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	6
+25	25	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	7
+25	26	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	1	7
+25	27	E-Banking	banking	What is the minimum and maximum loan amount?	How to apply for a loan	2	7
+26	1	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	1
+26	2	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	1
+26	3	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	1
+26	4	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	1
+26	5	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	1
+26	6	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	1
+26	7	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	2
+26	8	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	2
+26	9	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	2
+26	10	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	3
+26	11	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	3
+26	12	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	3
+26	13	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	3
+26	14	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	4
+26	15	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	4
+26	16	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	5
+26	17	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	5
+26	18	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	5
+26	19	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	6
+26	20	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	6
+26	21	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	6
+26	22	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	7
+26	23	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	7
+26	24	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	7
+26	25	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	7
+26	26	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	7
+26	27	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	2	7
+26	28	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	8
+26	29	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	8
+26	30	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	8
+26	31	Household	daily_dialogue	Firing maid for having so much leave and not working neatly	Maid	1	8
+27	1	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	1
+27	2	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	1
+27	3	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	1
+27	4	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	1
+27	5	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	1
+27	6	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	2
+27	7	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	2
+27	8	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	2
+27	9	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	2
+27	10	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	2
+27	11	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	2
+27	12	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	2
+27	13	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	2
+27	14	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	2
+27	15	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	3
+27	16	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	3
+27	17	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	3
+27	18	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	3
+27	19	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	3
+27	20	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	4
+27	21	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	4
+27	22	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	4
+27	23	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	4
+27	24	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	4
+27	25	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	4
+27	26	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	4
+27	27	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	4
+27	28	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	4
+27	29	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	4
+27	30	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	5
+27	31	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	5
+27	32	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	5
+27	33	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	5
+27	34	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	5
+27	35	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	5
+27	36	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	6
+27	37	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	6
+27	38	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	6
+27	39	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	1	6
+27	40	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	7
+27	41	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	7
+27	42	Plannings	daily_dialogue	Giving a ride in new car	long/short drives	2	7
+28	1	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	1
+28	2	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	1
+28	3	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	1
+28	4	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	1
+28	5	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	1
+28	6	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	1
+28	7	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	2
+28	8	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	2
+28	9	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	2
+28	10	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	2
+28	11	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	3
+28	12	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	3
+28	13	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	4
+28	14	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	4
+28	15	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	4
+28	16	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	4
+28	17	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	5
+28	18	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	5
+28	19	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	5
+28	20	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	5
+28	21	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	5
+28	22	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	5
+28	23	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	6
+28	24	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	6
+28	25	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	6
+28	26	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	7
+28	27	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	7
+28	28	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	7
+28	29	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	7
+28	30	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	8
+28	31	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	1	8
+28	32	Movies	entertainment	What is the cast of Kashmir Files	Certification/ Reviews/Cast/	2	8
+29	1	Discussing Art	arts	Different types of art	Art Gallery	1	1
+29	2	Discussing Art	arts	Different types of art	Art Gallery	2	1
+29	3	Discussing Art	arts	Different types of art	Art Gallery	1	2
+29	4	Discussing Art	arts	Different types of art	Art Gallery	2	2
+29	5	Discussing Art	arts	Different types of art	Art Gallery	1	3
+29	6	Discussing Art	arts	Different types of art	Art Gallery	2	3
+29	7	Discussing Art	arts	Different types of art	Art Gallery	1	4
+29	8	Discussing Art	arts	Different types of art	Art Gallery	1	4
+29	9	Discussing Art	arts	Different types of art	Art Gallery	2	4
+29	10	Discussing Art	arts	Different types of art	Art Gallery	2	4
+29	11	Discussing Art	arts	Different types of art	Art Gallery	2	4
+29	12	Discussing Art	arts	Different types of art	Art Gallery	1	5
+29	13	Discussing Art	arts	Different types of art	Art Gallery	1	5
+29	14	Discussing Art	arts	Different types of art	Art Gallery	2	5
+29	15	Discussing Art	arts	Different types of art	Art Gallery	1	6
+29	16	Discussing Art	arts	Different types of art	Art Gallery	2	6
+29	17	Discussing Art	arts	Different types of art	Art Gallery	1	7
+29	18	Discussing Art	arts	Different types of art	Art Gallery	1	7
+29	19	Discussing Art	arts	Different types of art	Art Gallery	2	7
+29	20	Discussing Art	arts	Different types of art	Art Gallery	1	8
+29	21	Discussing Art	arts	Different types of art	Art Gallery	2	8
+29	22	Discussing Art	arts	Different types of art	Art Gallery	1	9
+29	23	Discussing Art	arts	Different types of art	Art Gallery	1	9
+29	24	Discussing Art	arts	Different types of art	Art Gallery	2	9
+29	25	Discussing Art	arts	Different types of art	Art Gallery	1	10
+29	26	Discussing Art	arts	Different types of art	Art Gallery	1	10
+29	27	Discussing Art	arts	Different types of art	Art Gallery	1	10
+29	28	Discussing Art	arts	Different types of art	Art Gallery	2	10
+29	29	Discussing Art	arts	Different types of art	Art Gallery	1	11
+29	30	Discussing Art	arts	Different types of art	Art Gallery	2	11
+29	31	Discussing Art	arts	Different types of art	Art Gallery	1	12
+29	32	Discussing Art	arts	Different types of art	Art Gallery	1	12
+29	33	Discussing Art	arts	Different types of art	Art Gallery	2	12
+29	34	Discussing Art	arts	Different types of art	Art Gallery	1	13
+29	35	Discussing Art	arts	Different types of art	Art Gallery	2	13
+30	1	Discussing Art	arts	Famous painters/museums in India	University	1	1
+30	2	Discussing Art	arts	Famous painters/museums in India	University	1	1
+30	3	Discussing Art	arts	Famous painters/museums in India	University	2	1
+30	4	Discussing Art	arts	Famous painters/museums in India	University	2	1
+30	5	Discussing Art	arts	Famous painters/museums in India	University	2	1
+30	6	Discussing Art	arts	Famous painters/museums in India	University	1	2
+30	7	Discussing Art	arts	Famous painters/museums in India	University	1	2
+30	8	Discussing Art	arts	Famous painters/museums in India	University	2	2
+30	9	Discussing Art	arts	Famous painters/museums in India	University	2	2
+30	10	Discussing Art	arts	Famous painters/museums in India	University	2	2
+30	11	Discussing Art	arts	Famous painters/museums in India	University	1	3
+30	12	Discussing Art	arts	Famous painters/museums in India	University	2	3
+30	13	Discussing Art	arts	Famous painters/museums in India	University	1	4
+30	14	Discussing Art	arts	Famous painters/museums in India	University	1	4
+30	15	Discussing Art	arts	Famous painters/museums in India	University	2	4
+30	16	Discussing Art	arts	Famous painters/museums in India	University	2	4
+30	17	Discussing Art	arts	Famous painters/museums in India	University	1	5
+30	18	Discussing Art	arts	Famous painters/museums in India	University	1	5
+30	19	Discussing Art	arts	Famous painters/museums in India	University	2	5
+30	20	Discussing Art	arts	Famous painters/museums in India	University	1	6
+30	21	Discussing Art	arts	Famous painters/museums in India	University	2	6
+30	22	Discussing Art	arts	Famous painters/museums in India	University	1	7
+30	23	Discussing Art	arts	Famous painters/museums in India	University	2	7
+30	24	Discussing Art	arts	Famous painters/museums in India	University	1	8
+30	25	Discussing Art	arts	Famous painters/museums in India	University	2	8
+30	26	Discussing Art	arts	Famous painters/museums in India	University	1	9
+30	27	Discussing Art	arts	Famous painters/museums in India	University	1	9
+30	28	Discussing Art	arts	Famous painters/museums in India	University	1	9
+30	29	Discussing Art	arts	Famous painters/museums in India	University	2	9
+30	30	Discussing Art	arts	Famous painters/museums in India	University	2	9
+30	31	Discussing Art	arts	Famous painters/museums in India	University	1	10
+31	1	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	1
+31	2	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	1
+31	3	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	1
+31	4	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	1
+31	5	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	2
+31	6	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	2
+31	7	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	3
+31	8	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	3
+31	9	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	4
+31	10	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	4
+31	11	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	4
+31	12	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	5
+31	13	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	5
+31	14	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	5
+31	15	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	6
+31	16	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	6
+31	17	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	6
+31	18	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	6
+31	19	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	6
+31	20	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	7
+31	21	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	7
+31	22	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	8
+31	23	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	8
+31	24	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	8
+31	25	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	8
+31	26	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	9
+31	27	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	9
+31	28	Discussing Art	arts	Literary art in India	Literary Aid Association Office	1	10
+31	29	Discussing Art	arts	Literary art in India	Literary Aid Association Office	2	10
+32	1	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	1
+32	2	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	1
+32	3	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	2
+32	4	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	2
+32	5	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	2
+32	6	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	2
+32	7	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	3
+32	8	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	3
+32	9	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	3
+32	10	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	3
+32	11	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	3
+32	12	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	4
+32	13	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	4
+32	14	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	4
+32	15	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	4
+32	16	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	5
+32	17	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	5
+32	18	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	5
+32	19	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	5
+32	20	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	5
+32	21	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	6
+32	22	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	6
+32	23	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	6
+32	24	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	6
+32	25	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	6
+32	26	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	7
+32	27	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	7
+32	28	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	1	7
+32	29	Historical Architectures	history	Qutub Minar- visiting time and student discounts	Inquiring about the monument (Era,Type of Architecture,Tickets, Timing)	2	7
+33	1	Historical Architectures	history	Aurangabad	Tourist places to visit	1	1
+33	2	Historical Architectures	history	Aurangabad	Tourist places to visit	2	1
+33	3	Historical Architectures	history	Aurangabad	Tourist places to visit	2	1
+33	4	Historical Architectures	history	Aurangabad	Tourist places to visit	1	2
+33	5	Historical Architectures	history	Aurangabad	Tourist places to visit	2	2
+33	6	Historical Architectures	history	Aurangabad	Tourist places to visit	2	2
+33	7	Historical Architectures	history	Aurangabad	Tourist places to visit	1	3
+33	8	Historical Architectures	history	Aurangabad	Tourist places to visit	1	3
+33	9	Historical Architectures	history	Aurangabad	Tourist places to visit	2	3
+33	10	Historical Architectures	history	Aurangabad	Tourist places to visit	2	3
+33	11	Historical Architectures	history	Aurangabad	Tourist places to visit	1	4
+33	12	Historical Architectures	history	Aurangabad	Tourist places to visit	2	4
+33	13	Historical Architectures	history	Aurangabad	Tourist places to visit	2	4
+33	14	Historical Architectures	history	Aurangabad	Tourist places to visit	2	4
+33	15	Historical Architectures	history	Aurangabad	Tourist places to visit	2	4
+33	16	Historical Architectures	history	Aurangabad	Tourist places to visit	2	4
+33	17	Historical Architectures	history	Aurangabad	Tourist places to visit	2	4
+33	18	Historical Architectures	history	Aurangabad	Tourist places to visit	1	5
+33	19	Historical Architectures	history	Aurangabad	Tourist places to visit	1	5
+33	20	Historical Architectures	history	Aurangabad	Tourist places to visit	2	5
+33	21	Historical Architectures	history	Aurangabad	Tourist places to visit	2	5
+33	22	Historical Architectures	history	Aurangabad	Tourist places to visit	1	6
+33	23	Historical Architectures	history	Aurangabad	Tourist places to visit	2	6
+33	24	Historical Architectures	history	Aurangabad	Tourist places to visit	2	6
+33	25	Historical Architectures	history	Aurangabad	Tourist places to visit	2	6
+33	26	Historical Architectures	history	Aurangabad	Tourist places to visit	1	7
+33	27	Historical Architectures	history	Aurangabad	Tourist places to visit	1	7
+33	28	Historical Architectures	history	Aurangabad	Tourist places to visit	2	7
+33	29	Historical Architectures	history	Aurangabad	Tourist places to visit	2	7
+33	30	Historical Architectures	history	Aurangabad	Tourist places to visit	1	8
+33	31	Historical Architectures	history	Aurangabad	Tourist places to visit	2	8
+33	32	Historical Architectures	history	Aurangabad	Tourist places to visit	2	8
+33	33	Historical Architectures	history	Aurangabad	Tourist places to visit	1	9
+33	34	Historical Architectures	history	Aurangabad	Tourist places to visit	2	9
+33	35	Historical Architectures	history	Aurangabad	Tourist places to visit	2	9
+33	36	Historical Architectures	history	Aurangabad	Tourist places to visit	2	9
+33	37	Historical Architectures	history	Aurangabad	Tourist places to visit	2	9
+33	38	Historical Architectures	history	Aurangabad	Tourist places to visit	1	10
+33	39	Historical Architectures	history	Aurangabad	Tourist places to visit	1	10
+34	1	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	1
+34	2	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	1
+34	3	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	1
+34	4	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	1
+34	5	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	1
+34	6	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	2
+34	7	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	2
+34	8	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	2
+34	9	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	2
+34	10	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	2
+34	11	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	2
+34	12	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	3
+34	13	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	3
+34	14	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	3
+34	15	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	3
+34	16	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	3
+34	17	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	3
+34	18	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	3
+34	19	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	3
+34	20	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	4
+34	21	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	4
+34	22	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	4
+34	23	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	4
+34	24	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	4
+34	25	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	4
+34	26	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	5
+34	27	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	5
+34	28	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	5
+34	29	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	5
+34	30	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	5
+34	31	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	6
+34	32	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	6
+34	33	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	6
+34	34	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	6
+34	35	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	6
+34	36	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	7
+34	37	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	7
+34	38	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	8
+34	39	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	8
+34	40	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	1	8
+34	41	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	8
+34	42	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	8
+34	43	Government schemes	government	Pradhan Mantri Vaya Vandana Yojana	Schemes for senior citizens	2	8
+35	1	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	1
+35	2	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	1
+35	3	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	1
+35	4	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	1
+35	5	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	1
+35	6	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	2	1
+35	7	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	2
+35	8	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	2
+35	9	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	2
+35	10	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	2
+35	11	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	2
+35	12	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	2	2
+35	13	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	3
+35	14	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	3
+35	15	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	3
+35	16	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	2	3
+35	17	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	4
+35	18	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	4
+35	19	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	4
+35	20	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	2	4
+35	21	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	5
+35	22	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	5
+35	23	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	5
+35	24	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	2	5
+35	25	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	6
+35	26	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	6
+35	27	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	6
+35	28	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	6
+35	29	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	6
+35	30	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	2	6
+35	31	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	2	6
+35	32	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	7
+35	33	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	7
+35	34	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	7
+35	35	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	7
+35	36	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	1	7
+35	37	Elections	government	Discussing the eligibality of the voter	Asking for the date/timing of the voting date	2	7
+36	1	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	1
+36	2	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	1
+36	3	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	2
+36	4	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	2
+36	5	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	2
+36	6	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	3
+36	7	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	3
+36	8	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	3
+36	9	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	4
+36	10	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	4
+36	11	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	4
+36	12	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	5
+36	13	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	5
+36	14	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	5
+36	15	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	5
+36	16	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	5
+36	17	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	6
+36	18	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	6
+36	19	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	6
+36	20	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	6
+36	21	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	6
+36	22	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	6
+36	23	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	6
+36	24	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	7
+36	25	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	7
+36	26	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	7
+36	27	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	7
+36	28	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	7
+36	29	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	8
+36	30	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	8
+36	31	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	8
+36	32	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	1	9
+36	33	Legal Afffidavit/documents	legal	Issuing Pancard	Issuing documents	2	9
+37	1	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	1
+37	2	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	1
+37	3	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	1
+37	4	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	1
+37	5	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	2
+37	6	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	2
+37	7	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	2
+37	8	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	2
+37	9	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	2
+37	10	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	2
+37	11	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	3
+37	12	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	3
+37	13	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	3
+37	14	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	3
+37	15	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	3
+37	16	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	3
+37	17	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	4
+37	18	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	4
+37	19	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	4
+37	20	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	4
+37	21	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	4
+37	22	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	4
+37	23	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	4
+37	24	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	5
+37	25	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	5
+37	26	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	5
+37	27	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	2	5
+37	28	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	6
+37	29	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	6
+37	30	Academia (Generic)	school_life	Provisions after basic schooling	Schools for kids in slums/deprived sector	1	6
+38	1	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	1
+38	2	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	1
+38	3	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	1
+38	4	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	1
+38	5	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	1
+38	6	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	2
+38	7	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	2
+38	8	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	2
+38	9	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	2
+38	10	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	2
+38	11	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	3
+38	12	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	3
+38	13	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	3
+38	14	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	3
+38	15	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	3
+38	16	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	4
+38	17	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	4
+38	18	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	4
+38	19	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	4
+38	20	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	4
+38	21	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	4
+38	22	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	5
+38	23	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	5
+38	24	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	5
+38	25	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	5
+38	26	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	5
+38	27	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	6
+38	28	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	2	6
+38	29	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	6
+38	30	Hill stations	tourism	Bihari and Malayali talking about their generic food habits	Local food suggestions	1	6
+39	1	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	1
+39	2	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	1
+39	3	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	1
+39	4	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	2
+39	5	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	2
+39	6	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	2
+39	7	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	2
+39	8	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	2
+39	9	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	3
+39	10	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	3
+39	11	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	3
+39	12	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	3
+39	13	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	3
+39	14	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	4
+39	15	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	4
+39	16	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	4
+39	17	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	4
+39	18	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	4
+39	19	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	5
+39	20	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	5
+39	21	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	5
+39	22	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	5
+39	23	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	5
+39	24	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	6
+39	25	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	6
+39	26	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	6
+39	27	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	6
+39	28	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	6
+39	29	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	1	6
+39	30	Hill stations	tourism	Asking for healthy food options at the restaurant	Local food suggestions	2	7
+40	1	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	1
+40	2	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	1
+40	3	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	1
+40	4	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	2
+40	5	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	2
+40	6	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	2
+40	7	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	2
+40	8	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	2
+40	9	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	2
+40	10	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	2
+40	11	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	3
+40	12	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	3
+40	13	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	3
+40	14	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	4
+40	15	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	4
+40	16	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	4
+40	17	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	5
+40	18	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	5
+40	19	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	5
+40	20	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	5
+40	21	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	5
+40	22	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	6
+40	23	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	6
+40	24	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	7
+40	25	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	7
+40	26	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	7
+40	27	E-Banking	banking	Money withdrawl at a bank window	At the bank	1	7
+40	28	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	8
+40	29	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	8
+40	30	E-Banking	banking	Money withdrawl at a bank window	At the bank	2	8
+41	1	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	1
+41	2	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	1
+41	3	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	1
+41	4	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	1
+41	5	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	1
+41	6	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	1
+41	7	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	1
+41	8	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	1
+41	9	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	1
+41	10	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	1
+41	11	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	2
+41	12	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	2
+41	13	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	2
+41	14	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	2
+41	15	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	2
+41	16	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	2
+41	17	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	2
+41	18	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	2
+41	19	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	2
+41	20	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	3
+41	21	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	3
+41	22	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	3
+41	23	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	3
+41	24	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	3
+41	25	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	3
+41	26	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	3
+41	27	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	3
+41	28	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	2	3
+41	29	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	4
+41	30	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	4
+41	31	Sports in India	sports	Discussion about biopic of a sportsperson	Two students discussing about sports films in their tiffin break.	1	4
+42	1	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	1
+42	2	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	1
+42	3	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	2
+42	4	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	2
+42	5	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	2
+42	6	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	2
+42	7	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	2
+42	8	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	2
+42	9	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	3
+42	10	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	3
+42	11	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	3
+42	12	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	3
+42	13	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	3
+42	14	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	4
+42	15	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	4
+42	16	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	5
+42	17	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	5
+42	18	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	5
+42	19	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	5
+42	20	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	5
+42	21	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	5
+42	22	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	6
+42	23	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	6
+42	24	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	6
+42	25	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	6
+42	26	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	6
+42	27	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	1	7
+42	28	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	7
+42	29	Historical Architectures	history	Requesting access to Jaipur City Palace for a photo shoot of a luxury brand	Special requests (Photoshoots, Movie shoots)	2	7
+43	1	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	1
+43	2	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	1
+43	3	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	1
+43	4	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	1
+43	5	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	1
+43	6	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	1
+43	7	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	1
+43	8	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	2
+43	9	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	2
+43	10	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	2
+43	11	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	2
+43	12	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	2
+43	13	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	2
+43	14	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	2
+43	15	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	2
+43	16	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	2
+43	17	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	3
+43	18	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	3
+43	19	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	3
+43	20	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	3
+43	21	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	3
+43	22	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	4
+43	23	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	4
+43	24	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	4
+43	25	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	4
+43	26	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	4
+43	27	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	4
+43	28	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	4
+43	29	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	4
+43	30	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	5
+43	31	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	5
+43	32	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	5
+43	33	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	5
+43	34	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	5
+43	35	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	6
+43	36	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	2	6
+43	37	Asking about hobbies	hobbies	How do you take out time for your hobbies ?	Park	1	6
