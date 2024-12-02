@@ -168,4 +168,4 @@ cython_debug/
 /results
 
 #fine-tune results folder
-/finetuned_epoch1
+/finetuned
