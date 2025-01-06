@@ -14,3 +14,5 @@ Implementation files:
 - [for report statistics and figures](//notebooks/report_details.ipynb)
 
 Report: 
+
+- [Working Report](report.pdf)
