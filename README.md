@@ -1,6 +1,7 @@
 # Introduction
 
-Repo for English-Maithili translation task
+Developing a lightweight translation model for the Maithili language, optimizing for better accuracy and easy
+integration into different web applications.
 
 # Implementation Details
 
