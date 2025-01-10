@@ -1,6 +1,6 @@
 # Introduction
 
-Developing a lightweight translation model for the Maithili language, optimizing for better accuracy and easy
+Developing a lightweight English-Mathili translation model, optimizing for better accuracy and easy
 integration into different web applications.
 
 # Implementation Details
