@@ -7,8 +7,6 @@
 ![Metric](https://img.shields.io/badge/Metric-chrF%2B%2B-0A9EDC)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**UC San Diego · Dec 2024** · Kuber Shahi
-
 Maithili is spoken by over 34 million people, yet it has very little digital infrastructure and almost no dedicated machine translation research. This repository builds a **lightweight English → Maithili translation model** by transferring from a related language: we fine-tune the 76M-parameter Helsinki-NLP English → Hindi MarianMT model on the BPCC English–Maithili corpus and compare parameter-efficient (LoRA) and full fine-tuning against the 1.12B-parameter IndicTrans2 state of the art, using chrF++ on the IN22 Gen benchmark.
 
 ## Deliverables
