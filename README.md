@@ -28,6 +28,7 @@ The goal is not to beat large multilingual models, but to get **comparable quali
 ```text
 .
 ├── dataset/
+│   ├── DATASET.md                  # Upstream sources, licenses, and local changes
 │   ├── train/bpcc/                 # BPCC English–Maithili parallel corpus (67,658 pairs)
 │   ├── training_split/bpcc/        # train / val / test splits (60,892 / 3,383 / 3,383)
 │   └── test/
@@ -64,6 +65,8 @@ Local checkpoints (`finetuned/`) and trainer outputs (`results/`) are git-ignore
 | BPCC test split | Held-out test | 1,200 sampled | Random sample (seed 42) of the 3,383-pair test split |
 
 The BPCC corpus was already de-duplicated, aligned, and toxicity-filtered by the IndicTrans2 team, so no further preprocessing was required. The raw NLLB English–Maithili data (~4.4M pairs) was not used because of misalignments, untranslated segments, and low-quality entries.
+
+**Licenses and provenance:** Files under `dataset/` are third-party data (BPCC, IN22, FLORES-200), not MIT-licensed project code. See [`dataset/DATASET.md`](dataset/DATASET.md) for upstream links, per-dataset licenses, attribution, and what was changed in this repo (splits, file layout, derived tokenizer output).
 
 ![BPCC English–Maithili sample pairs](img/bpcc/bpcc-data-sample.png)
 
@@ -166,4 +169,6 @@ Evaluating the full fine-tuned model on Kaggle took about 5 minutes on the test 
 
 ## License
 
-Released under the [MIT License](LICENSE).
+**Project code and documentation** (notebooks, scripts, images, `report.pdf`, and other original artifacts outside `dataset/`) are released under the [MIT License](LICENSE).
+
+**Dataset files** in [`dataset/`](dataset/) are copied from upstream corpora and benchmarks (IndicTrans2 BPCC, IN22, FLORES-200). They keep their **original licenses** (CC0, CC-BY-4.0, and CC-BY-SA-4.0 depending on the source — not MIT). Full details, required citations, and a list of local changes (splits, formats, derived files) are in [`dataset/DATASET.md`](dataset/DATASET.md).
